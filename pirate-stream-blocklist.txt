@@ -1,0 +1,72 @@
+!
+! Title: Turkish Pirate Video & Streaming DNS Blocklist
+! Description: DNS blocklist targeting unauthorized movie/series streaming platforms, mirrors, and related video CDNs.
+! Version: 1.0.0
+! Last modified: 2026-09-14T20:30:00.000Z
+! Homepage: https://github.com/
+! License: MIT
+!
+! ==============================================================================
+! 1. HDFILMCEHENNEMI VE VARYASYONLARI
+! ==============================================================================
+||*hdfilmcehennemi*^
+||*filmcehennemi*^
+||*hdfilmcehennem*^
+
+! ==============================================================================
+! 2. YAYGIN TÜRKÇE KAÇAK DİZİ / FİLM AĞLARI (WILDCARD KULLANIMI)
+! ==============================================================================
+! Dizipal aynaları ve yönlendiricileri
+||*dizipal*^
+! FullHD Film izlesene ağları
+||*fullhdfilmizlesene*^
+! Filmmodu
+||*filmmodu*^
+! Dizilla
+||*dizilla*^
+! Dizigom
+||*dizigom*^
+! Sezonluk Dizi
+||*sezonlukdizi*^
+! DiziBOX
+||*dizibox*^
+! DiziPUB
+||*dizipub*^
+! Diziplus
+||*diziplus*^
+! Yabancı Dizi ağları
+||*yabancidizi*^
+! FilmKovası
+||*filmkovasi*^
+! JetFilmizle
+||*jetfilmizle*^
+! Webteizle
+||*webteizle*^
+! 720pizle
+||*720pizle*^
+! Hdizlefilmi
+||*hdizlefilmi*^
+! Sinemalar kaçak klonları
+||*sinemashd*^
+
+! ==============================================================================
+! 3. KAÇAK YAYINLARA ÖZEL VİDEO OYNATICI VE EMBED CDN SUNUCULARI
+! ==============================================================================
+||vidmoly.me^
+||vidmoly.to^
+||closeload.com^
+||upstream.to^
+||streamtape.com^
+||doodstream.com^
+||dood.to^
+||dood.watch^
+||dood.pm^
+||mixdrop.co^
+||mixdrop.to^
+||filelions.to^
+||streamwish.to^
+||dropload.io^
+||vtube.to^
+||supervideo.tv^
+||waaw.to^
+||ninjastream.to^
