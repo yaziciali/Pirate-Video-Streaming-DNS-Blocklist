@@ -1,0 +1,39 @@
+!
+! Title: Dynamic Pirate Video & Streaming DNS Blocklist
+! Description: Auto-updated AdGuard DNS filter tracking illegal streaming sites & mirrors.
+! Version: 1.0
+! Last modified: 2026-09-14T20:35:57Z
+! Total Rules: 32
+!
+! ==============================================================================
+! JOKER (WILDCARD) VE DEĞİŞMEYEN STATİK KURALLAR
+||*hdfilmcehennemi*^
+||*filmcehennemi*^
+||*dizipal*^
+||*fullhdfilmizlesene*^
+||*filmmodu*^
+||*dizilla*^
+||*dizigom*^
+||*sezonlukdizi*^
+||*dizibox*^
+||*dizipub*^
+||*diziplus*^
+||*yabancidizi*^
+||*filmkovasi*^
+||*jetfilmizle*^
+||*webteizle*^
+||*720pizle*^
+||vidmoly.me^
+||vidmoly.to^
+||closeload.com^
+||upstream.to^
+||streamtape.com^
+||doodstream.com^
+||mixdrop.co^
+||mixdrop.to^
+||filelions.to^
+||streamwish.to^
+||filmmodu.org^
+||fullhdfilmizlesene.now^
+||hdfilmcehennemi.nl^
+||ww547.dizipal.com^
