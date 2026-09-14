@@ -2,6 +2,11 @@
 ! JOKER (WILDCARD) VE DEĞİŞMEYEN STATİK KURALLAR
 ! ==============================================================================
 ||*hdfilmcehennemi*^
+||*720izle*^
+||*filmkutusu*^
+||*filmdozu*^
+||*justwatch*^
+||*puhutv*^
 ||*filmcehennemi*^
 ||*dizipal*^
 ||*fullhdfilmizlesene*^
