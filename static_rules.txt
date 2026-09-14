@@ -1,0 +1,29 @@
+! ==============================================================================
+! JOKER (WILDCARD) VE DEĞİŞMEYEN STATİK KURALLAR
+! ==============================================================================
+||*hdfilmcehennemi*^
+||*filmcehennemi*^
+||*dizipal*^
+||*fullhdfilmizlesene*^
+||*filmmodu*^
+||*dizilla*^
+||*dizigom*^
+||*sezonlukdizi*^
+||*dizibox*^
+||*dizipub*^
+||*diziplus*^
+||*yabancidizi*^
+||*filmkovasi*^
+||*jetfilmizle*^
+||*webteizle*^
+||*720pizle*^
+||vidmoly.me^
+||vidmoly.to^
+||closeload.com^
+||upstream.to^
+||streamtape.com^
+||doodstream.com^
+||mixdrop.co^
+||mixdrop.to^
+||filelions.to^
+||streamwish.to^
