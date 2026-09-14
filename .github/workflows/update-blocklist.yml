@@ -1,0 +1,45 @@
+name: Update Blocklist
+
+on:
+  schedule:
+    # UTC ile her 12 saatte bir çalışır (00:00 ve 12:00)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # GitHub arayüzünden manuel tetikleme butonu ekler
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları Yükle
+        run: |
+          pip install requests
+
+      - name: Betiği Çalıştır
+        run: |
+          python scripts/update.py
+
+      - name: Değişiklikleri Kaydet ve Pushla
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Dosyada değişiklik varsa commit et
+          git add blocklist.txt
+          if git diff --staged --quiet; then
+            echo "Herhangi bir değişiklik yok."
+          else
+            git commit -m "Automated: blocklist.txt güncellendi [skip ci]"
+            git push
+          fi
