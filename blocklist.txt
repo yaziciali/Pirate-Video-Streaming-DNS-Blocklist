@@ -2,7 +2,7 @@
 ! Title: Dynamic Pirate Video & Streaming DNS Blocklist
 ! Description: Auto-updated AdGuard DNS filter tracking illegal streaming sites & mirrors.
 ! Version: 1.0
-! Last modified: 2026-10-19T18:08:19Z
+! Last modified: 2026-10-20T02:57:19Z
 ! Total Rules: 38
 !
 ! ==============================================================================
