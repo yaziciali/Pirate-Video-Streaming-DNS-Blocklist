@@ -2,8 +2,8 @@
 ! Title: Dynamic Pirate Video & Streaming DNS Blocklist
 ! Description: Auto-updated AdGuard DNS filter tracking illegal streaming sites & mirrors.
 ! Version: 1.0
-! Last modified: 2026-11-18T19:50:19Z
-! Total Rules: 38
+! Last modified: 2026-11-19T05:28:15Z
+! Total Rules: 37
 !
 ! ==============================================================================
 ! JOKER (WILDCARD) VE DEĞİŞMEYEN STATİK KURALLAR
@@ -41,5 +41,4 @@
 ||filmmodu.org^
 ||fullhdfilmizlesene.now^
 ||hdfilmcehennemi.nl^
-||ww547.dizipal.com^
 ||ww547.sezonlukdizi.vip^
