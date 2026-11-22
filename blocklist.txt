@@ -2,7 +2,7 @@
 ! Title: Dynamic Pirate Video & Streaming DNS Blocklist
 ! Description: Auto-updated AdGuard DNS filter tracking illegal streaming sites & mirrors.
 ! Version: 1.0
-! Last modified: 2026-11-21T18:33:14Z
+! Last modified: 2026-11-22T04:33:19Z
 ! Total Rules: 38
 !
 ! ==============================================================================
@@ -38,8 +38,8 @@
 ||mixdrop.to^
 ||filelions.to^
 ||streamwish.to^
+||dizipal.com^
 ||filmmodu.org^
 ||fullhdfilmizlesene.now^
 ||hdfilmcehennemi.nl^
-||ww547.dizipal.com^
 ||ww547.sezonlukdizi.vip^
